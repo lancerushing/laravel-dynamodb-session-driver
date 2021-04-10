@@ -23,13 +23,13 @@
   ],
   "require": {
     "php" : ">=5.4",
-    "aws/aws-sdk-php": "~3.93.6",
+    "aws/aws-sdk-php": "^3.93",
     "illuminate/support": ">=5.0"
   },
   "require-dev": {
     "mockery/mockery": "^0.9.5",
-    "orchestra/testbench" : "~3.4.6",
-    "phpunit/phpunit" : "^6.1"
+    "orchestra/testbench" : "^3.4",
+    "phpunit/phpunit" : "^6"
   },
   "autoload": {
     "psr-4": {
